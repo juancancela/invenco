@@ -1,6 +1,6 @@
 {
   "name": "invencotest",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "invenco test",
   "main": "app.js",
   "scripts": {
