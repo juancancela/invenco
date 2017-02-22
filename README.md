@@ -54,4 +54,9 @@ $ npm test
 $ npm run coverage
 ```
 
-## Running provided examples and additional data sets
+## Installing it using npm
+* Using a command line, execute following command to install invenco test as an npm global module
+```sh
+$ npm install -g invencotest
+```
+Note: Installing an npm module as a global one may require additional permissions.
