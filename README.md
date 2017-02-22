@@ -1,4 +1,4 @@
-# Toy Robot
+# INVENCOTEST
 
 Simplistic example of a robot walking around a table from entrance up to the exit.
 
