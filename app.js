@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 "use strict";
 
-const Person = require('./src/domain/Person');
+const Person = require('./src/domain/Person').Person;
 
 /**
  *  !!! README.md has detailed information of how to run tests, coverage, and provided data sets.
