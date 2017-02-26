@@ -2,9 +2,17 @@
 
 Fibonacci function (missed yield on exercise #13)
 
+## Install dependencies
+
+* On application root path, run following command
+```sh
+$ npm install
+```
+
+
 ## Executing fibonacci function test
 
-* On application root path, run following command to run tests
+* On application root path, run following command
 ```sh
 $ npm test
 ```
